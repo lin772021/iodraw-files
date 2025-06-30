@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-18" value="peak_indice[k] - peak_indice[k-1] &amp;gt; WIN" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="700" width="160" height="80" as="geometry" />
+          <mxGeometry x="590" y="700" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-20" target="BF9jLlQh71Wk0ISm5YMK-10">
           <mxGeometry relative="1" as="geometry" />
