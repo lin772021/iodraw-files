@@ -19,10 +19,10 @@
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-4" target="BF9jLlQh71Wk0ISm5YMK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-4" value="Set R peak threshold(PEAK_THRES) and&lt;div&gt;detection window(WIN)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-4" value="Set R peak threshold (PEAK_THRES) and&lt;div&gt;detection window (WIN)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-6" value="Record indice of data points greater than PEAK_THRES ();&lt;div&gt;Set peak_count=1, k=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-6" value="Record indice of data points greater than PEAK_THRES (peak_indice);&lt;div&gt;Set peak_count=1, k=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="570" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
