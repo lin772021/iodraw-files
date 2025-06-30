@@ -28,14 +28,13 @@
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-6" value="Record indice of data points greater than PEAK_THRES (peak_indice);&lt;div&gt;Set peak_count=1, k=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="570" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-10" target="BF9jLlQh71Wk0ISm5YMK-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-10" value="k &amp;lt; len(peak_indice)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="670" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
