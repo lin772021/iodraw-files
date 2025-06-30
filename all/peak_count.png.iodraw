@@ -43,6 +43,9 @@
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-18" target="BF9jLlQh71Wk0ISm5YMK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-18" target="BF9jLlQh71Wk0ISm5YMK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-18" value="peak_indice[k] - peak_indice[k-1] &amp;gt; WIN" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="690" width="160" height="80" as="geometry" />
         </mxCell>
@@ -59,7 +62,10 @@
           <mxGeometry x="430" y="770" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-26" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="530" y="720" width="50" height="30" as="geometry" />
+          <mxGeometry x="660" y="670" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-27" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
