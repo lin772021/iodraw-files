@@ -4,11 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-1" target="BF9jLlQh71Wk0ISm5YMK-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=13;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="345" y="320" width="170" height="40" as="geometry" />
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="BF9jLlQh71Wk0ISm5YMK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="360" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-2" target="BF9jLlQh71Wk0ISm5YMK-4">
           <mxGeometry relative="1" as="geometry" />
@@ -83,6 +82,9 @@
             <mxPoint x="619.9599999999999" y="785" as="sourcePoint" />
             <mxPoint x="490.0400000000001" y="785" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
