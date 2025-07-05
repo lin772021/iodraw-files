@@ -32,7 +32,7 @@
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-10" target="BF9jLlQh71Wk0ISm5YMK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-10" value="k &amp;lt; len(peak_indice) - 1&lt;div style=&quot;font-size: 13px;&quot;&gt;k+=1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-10" value="k &amp;lt; len(peak_indice) - 1&lt;div style=&quot;font-size: 13px;&quot;&gt;k+=1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;gradientColor=#87a079;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="677.5" width="185" height="95" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-16" value="Output peak_cnt" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
