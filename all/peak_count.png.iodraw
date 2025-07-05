@@ -26,16 +26,16 @@
             <mxPoint x="440" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-6" value="Record indice of data points greater than PEAK_THRES (peak_indice);&lt;div style=&quot;font-size: 13px;&quot;&gt;Set peak_cnt=1, k=0&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;fontColor=default;gradientColor=#CAD7EB;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-6" value="Record indice of data points greater than PEAK_THRES (peak_indice);&lt;div style=&quot;font-size: 15px;&quot;&gt;Set peak_cnt=1, k=0&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=15;fillColor=#dae8fc;fontColor=default;gradientColor=#CAD7EB;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-10" target="BF9jLlQh71Wk0ISm5YMK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-10" value="k &amp;lt; len(peak_indice) - 1&lt;div style=&quot;font-size: 13px;&quot;&gt;k+=1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;gradientColor=#a1b893;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-10" value="k &amp;lt; len(peak_indice) - 1&lt;div style=&quot;font-size: 15px;&quot;&gt;k+=1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=15;gradientColor=#a1b893;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="677.5" width="185" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-16" value="Output peak_cnt" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-16" value="Output peak_cnt" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="355" y="797.5" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF9jLlQh71Wk0ISm5YMK-18" target="BF9jLlQh71Wk0ISm5YMK-20">
@@ -43,10 +43,10 @@
             <mxPoint x="700.0188235294117" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-18" value="peak_indice[k] -&amp;nbsp;&lt;div&gt;peak_indice[k-1] &amp;gt; WIN&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;fontColor=default;gradientColor=#a1b893;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-18" value="peak_indice[k] -&amp;nbsp;&lt;div style=&quot;font-size: 15px;&quot;&gt;peak_indice[k-1] &amp;gt; WIN&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;fontColor=default;gradientColor=#a1b893;" vertex="1" parent="1">
           <mxGeometry x="610" y="672.5" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BF9jLlQh71Wk0ISm5YMK-20" value="peak_cnt+=1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;fontColor=default;gradientColor=#CAD7EB;" vertex="1" parent="1">
+        <mxCell id="BF9jLlQh71Wk0ISm5YMK-20" value="peak_cnt+=1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=15;align=center;verticalAlign=middle;fontColor=default;gradientColor=#CAD7EB;" vertex="1" parent="1">
           <mxGeometry x="610" y="620" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BF9jLlQh71Wk0ISm5YMK-24" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;fontColor=default;" vertex="1" parent="1">
